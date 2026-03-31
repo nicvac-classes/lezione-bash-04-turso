@@ -13,5 +13,7 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
+find ambiente/ -name"*.txt"
+grep -r -n "database" ambiente/log/
+grep -p "TODO" ambiente/progetti/*.java
 
