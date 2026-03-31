@@ -15,7 +15,7 @@
 
 
 
-s -l ambiente/sandbox/script_test.sh
+ls -l ambiente/sandbox/script_test.sh
 chmod u+x ambiente/sandbox/script_test.sh
 ls -l ambiente/sandbox/script_test.sh
 ./ambiente/sandbox/script_test.sh
