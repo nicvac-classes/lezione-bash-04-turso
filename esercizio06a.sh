@@ -14,6 +14,7 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 grep "\[ERROR]" ambiente/log/server.log
-grep -c "\[WARNING]
+grep -c "\[WARNING] ambiente/log/server.log
+grep -e "\[ERROR]\[WARNING/] ambiente/log/server.log > ambiente/sandbox/problemi.txt
 
 
