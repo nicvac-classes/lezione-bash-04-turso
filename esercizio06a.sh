@@ -13,6 +13,7 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
-
+grep "\[ERROR]" ambiente/log/server.log
+grep -c "\[WARNING]
 
 
