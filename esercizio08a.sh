@@ -13,6 +13,7 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
+awk -F print ambiente/studenti
 
 
 
